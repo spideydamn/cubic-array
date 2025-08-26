@@ -1,0 +1,13 @@
+add_library(cubic_array
+        CubicArray.h
+        CubicArray.cpp
+        LineArray.h
+        LineArray.cpp
+        SquareArray.h
+        SquareArray.cpp
+        ArrayElement.h
+        ArrayElement.cpp
+        BitFunctions.cpp
+        BitFunctions.cpp
+        BitFunctions.h
+)
